@@ -1,0 +1,5 @@
+| Status | Meaning             |
+| ------ | ------------------- |
+| 200    | Login Successful    |
+| 401    | Invalid Credentials |
+| 500    | Server Error        |
