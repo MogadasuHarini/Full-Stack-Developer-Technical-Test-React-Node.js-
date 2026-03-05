@@ -1,0 +1,16 @@
+User enters username & password
+2️⃣ React calls POST /login API
+3️⃣ Backend checks credentials
+4️⃣ If correct (admin/admin)
+
+Status 200
+
+Save username in localStorage
+
+Navigate to Welcome Page
+
+5️⃣ If wrong
+
+Status 401
+
+Show error message
